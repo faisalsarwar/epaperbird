@@ -1,0 +1,22 @@
+h1 {
+    font-family: 'Fredoka One', cursive;
+}
+
+.navbar-brand {
+    font-family: 'Fredoka One', cursive;
+    font-size: 30px;
+    padding-top: 35px;
+}
+
+.navbar-nav {
+    font-family: 'BenchNine', sans-serif;
+    font-size: 28px;
+}
+
+#navbar {
+    height: 90px;
+}
+
+.nav {
+    padding-top: 19px;
+}
